@@ -1,7 +1,8 @@
 # Power-BI
 Simple PowerBI dashboard
 ## General information
-This project is simple PowerBI dashboard, which contains indicators used in stock market data analysis:
+This project is simple PowerBI dashboard, which contains indicators used in stock market data analysis.<br>
+To open this file (PBIX), install Microsoft Power BI Desktop on your computer.
 ### Page 1
 ##### * Period selection slider
 ##### * Bollinger band
